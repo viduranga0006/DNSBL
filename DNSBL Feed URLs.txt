@@ -1,0 +1,182 @@
+Name: BBcan177Domains 
+URL: https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/be5fddb116667699c246df97b79e1032ab71bb1c/MS-2
+
+Name: BBcan177Threats 
+URL: https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw/b344ebc9475acdea1fae38a12c4ea9332838a184/MS-1
+
+Name: YoYo 
+URL: http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;mimetype=plaintext
+
+Name: SWC 
+URL: http://someonewhocares.org/hosts/hosts
+
+Name: Adaway 
+URL: https://adaway.org/hosts.txt
+
+Name: AdBlockPlus 
+URL: https://gist.githubusercontent.com/BBcan177/b96dd281c5acd5327825a22c63f9f9c9/raw/94c1585a189347e35c0070a9e4de76fde2adb271/liste_fr.txt
+
+Name: MalwareJustDomains 
+URL: http://mirror1.malwaredomains.com/files/justdomains
+
+Name: MicrosoftDomains 
+URL: https://jasonhill.co.uk/pfsense/microsoft_domains.txt
+
+Name: YouTubeVideoAds 
+URL: https://jasonhill.co.uk/pfsense/ytadblock.txt
+
+Name: MalwareImmortalDomains 
+URL: http://mirror1.malwaredomains.com/files/immortal_domains.txt
+
+Name: MalwareHosts 
+URL: http://www.malwaredomainlist.com/hostslist/hosts.txt
+
+Name: Malvertising 
+URL: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+
+Name: hpHostsAds 
+URL: http://jasonhill.co.uk/pfsense/ad_servers_dnsbl.txt
+
+Name: Cameleon 
+URL: http://sysctl.org/cameleon/hosts
+
+Name: RansomwareDomainBlocklist 
+URL: https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+
+Name: Cryptolocker 
+URL: http://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt
+
+Name: DNSBLMalicious 
+URL: http://winhelp2002.mvps.org/hosts.txt
+
+Name: OpenFish 
+URL: https://www.openphish.com/feed.txt
+
+Name: Phishtank 
+URL: http://data.phishtank.com/data/online-valid.csv
+
+Name: MoneroMiner 
+URL: https://raw.githubusercontent.com/Hestat/minerchk/master/minerlist-all.txt
+
+Name: spam404 
+URL: https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
+
+Name: Malc0de 
+URL: https://malc0de.com/bl/BOOT
+
+Name: AbuseCh 
+URL: https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+Name: StevenBlack 
+URL: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+Name: DisconnectTracking 
+URL: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+
+Name: DisconnectAds 
+URL: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+Name: CoinlistBrowser 
+URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
+
+Name: Princeton 
+URL: https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
+
+Name: ISClow 
+URL: https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
+
+Name: DShieldMedium 
+URL: https://dshield.org/feeds/suspiciousdomains_Medium.txt
+
+Name: DShieldHigh 
+URL: https://dshield.org/feeds/suspiciousdomains_High.txt
+
+Name: WindowsTelemetry 
+URL: https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hostslist
+
+Name: Quidsup 
+URL: https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+
+Name: AdGuardDNS 
+URL: https://v.firebog.net/hosts/AdguardDNS.txt
+
+Name: HostsFile 
+URL: https://hosts-file.net/ad_servers.txt
+
+Name: AirelleHrsk 
+URL: https://v.firebog.net/hosts/Airelle-hrsk.txt
+
+Name: PrigentMalware 
+URL: https://v.firebog.net/hosts/Prigent-Malware.txt
+
+Name: PrigentPhishing 
+URL: https://v.firebog.net/hosts/Prigent-Phishing.txt
+
+Name: ShallaMal 
+URL: https://v.firebog.net/hosts/Shalla-mal.txt
+
+Name: ISCmedium 
+URL: https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
+
+Name: ISChigh 
+URL: https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+
+Name: StevenBlackAds 
+URL: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+
+Name: HostsFileExp 
+URL: https://hosts-file.net/exp.txt
+
+Name: HostsFileEmd 
+URL: https://hosts-file.net/emd.txt
+
+Name: HostsFilePsh 
+URL: https://hosts-file.net/psh.txt
+
+Name: HostsFileGrm 
+URL: https://hosts-file.net/grm.txt
+
+Name: StevenBlackKAdHosts 
+URL: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+
+Name: StevenBlackSpam 
+URL: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+
+Name: W3KBL 
+URL: https://v.firebog.net/hosts/static/w3kbl.txt
+
+Name: BillStearns 
+URL: https://v.firebog.net/hosts/BillStearns.txt
+
+Name: Spammers 
+URL: https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+
+Name: Dawsey21 
+URL: https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
+
+Name: Vokins 
+URL: https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+
+Name: AirelleTrc 
+URL: https://v.firebog.net/hosts/Airelle-trc.txt
+
+Name: PrigentAds 
+URL: https://v.firebog.net/hosts/Prigent-Ads.txt
+
+Name: StevenBlackHosts 
+URL: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
+
+Name: ChefKoch1 
+URL: https://gist.githubusercontent.com/CHEF-KOCH/080efada22b9659ef61241029122873b/raw/7f9bd984d3c46b3dba2de7606da579bc0ac6780c/Canvas%2520Font%2520Fingerprinting%2520pages%2520%255B2017%2520Edition%255D
+
+Name: ChefKoch2 
+URL: https://gist.githubusercontent.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500/raw/3ba028508feb2ef67a3d7ab75f428fd284223e8b/WebRTC%2520tracking%2520list%2520%255B2017%2520Edition%255D.txt
+
+Name: SamsungSmart 
+URL: https://v.firebog.net/hosts/static/SamsungSmart.txt
+
+Name: EasyPrivacy2 
+URL: https://v.firebog.net/hosts/Easyprivacy.txt
+
+Name: GiftCardKiller 
+URL: https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt
